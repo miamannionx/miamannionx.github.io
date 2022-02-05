@@ -21,7 +21,7 @@ export async function run() {
         var page = context.application.getActivePage();
 
         // Queue a command to set the page title.
-        page.title = "Hello World";
+        page.title = "Lecture Notes";
 
         // Queue a command to add an outline to the page.
         var html = "<p><ol><li>Item #1</li><li>Item #2</li></ol></p>";
