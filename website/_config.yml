@@ -21,8 +21,8 @@
 title: Mia Mannion
 description: Blog & Portfolio
 header_pages:
-  - index.markdown 
-  - about.markdown
+  - index.md
+  - about.md
   - posts.md
 style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
