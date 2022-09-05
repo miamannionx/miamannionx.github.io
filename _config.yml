@@ -33,7 +33,7 @@ footer: <html><p>Comp Sci undergrad at the University of Warwick. Aspiring Softw
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Computer Science undergrad at the University of Warwick. Aspiring Software Engineer.
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://miamannionx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://miamannionx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  miamannionx
 
 # Build settings
