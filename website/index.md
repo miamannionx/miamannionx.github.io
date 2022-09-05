@@ -8,3 +8,5 @@ permalink: /
 ---
 
 Hihi this is the home page
+
+See some of my projects [here](/posts)
