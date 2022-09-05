@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-05T14:35:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mia Mannion</title><subtitle>Blog &amp; Portfolio</subtitle><entry><title type="html">Big Data Streaming Project</title><link href="http://localhost:4000/2022/09/05/BigDataProj.html" rel="alternate" type="text/html" title="Big Data Streaming Project" /><published>2022-09-05T11:54:55+01:00</published><updated>2022-09-05T11:54:55+01:00</updated><id>http://localhost:4000/2022/09/05/BigDataProj</id><content type="html" xml:base="http://localhost:4000/2022/09/05/BigDataProj.html"><![CDATA[<h1 id="big-data-streaming-project-internship-wrap-up-and-reflections">Big Data Streaming Project: Internship wrap up and reflections</h1>
+
+<p>It’s the final week of my summer Software Engineering internship and we’ve finally finished our project.</p>
+
+<p>We created a Big Data energy commodity data visualisation software.</p>
+
+<p>Lots of buzzwords there, to break it down our client was a leading energy supplier firm, and we were given the task of creating a visual, interactive software providing information on energy commodities. After spending the past month on this, I feel like I now know the energy commodity market inside and out. They also wanted us to integrate big data somehow and it was up to us to design and develop the product.</p>
+
+<p>Being able to design and develop an entire system from scratch was an amazing opportunity. No one on my team had any previous experience with working with big data before, or any of the recommended tech stack (Microsoft Azure).</p>
+
+<p>The software architecture we decided on was this:</p>
+
+<p><img src="https://www.w3schools.com/images/w3schools_green.jpg"></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Big Data Streaming Project: Internship wrap up and reflections]]></summary></entry><entry><title type="html">My First Post</title><link href="http://localhost:4000/2022/08/25/First-Post.html" rel="alternate" type="text/html" title="My First Post" /><published>2022-08-25T15:56:00+01:00</published><updated>2022-08-25T15:56:00+01:00</updated><id>http://localhost:4000/2022/08/25/First-Post</id><content type="html" xml:base="http://localhost:4000/2022/08/25/First-Post.html"><![CDATA[<h2 id="welcome-to-my-website">Welcome to my website!</h2>
+<p>I made it using Jekyll due to it’s ease of integration with GitHub pages.</p>
+
+<p>The theme I used is called console, which can be found <a href="https://github.com/b2a3e8/jekyll-theme-console">here</a>.</p>
+
+<p>I’m enjoying using markdown to write these blog posts. I wrote all the notes I took during training at my internship in markdown and it really grew on me.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to my website! I made it using Jekyll due to it’s ease of integration with GitHub pages.]]></summary></entry></feed>

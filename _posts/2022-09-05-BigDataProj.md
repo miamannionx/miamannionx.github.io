@@ -17,4 +17,3 @@ The software architecture we decided on was this:
 
 {::nomarkdown}<img src="https://www.w3schools.com/images/w3schools_green.jpg">{:/}
 
-
