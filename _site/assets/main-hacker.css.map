@@ -3,8 +3,8 @@
 	"file": "main-hacker.css",
 	"sources": [
 		"main-hacker.scss",
-		"../../../../../../Library/Ruby/Gems/2.6.0/gems/jekyll-theme-console-0.4.0/_sass/_hacker.scss",
-		"../../../../../../Library/Ruby/Gems/2.6.0/gems/jekyll-theme-console-0.4.0/_sass/base.scss"
+		"../../../../../usr/local/lib/ruby/gems/3.1.0/gems/jekyll-theme-console-0.4.0/_sass/_hacker.scss",
+		"../../../../../usr/local/lib/ruby/gems/3.1.0/gems/jekyll-theme-console-0.4.0/_sass/base.scss"
 	],
 	"sourcesContent": [
 		"@import \"hacker\";\n@import \"base\";\n",

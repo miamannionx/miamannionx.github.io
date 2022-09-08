@@ -42,6 +42,7 @@ theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
