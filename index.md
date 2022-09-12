@@ -7,6 +7,18 @@ title: Home
 permalink: /
 ---
 
-Hihi this is the home page
+# Welcome to my website!
 
-See some of my projects [here](/posts)
+This is currently a work in progress, but I intend on displaying my portfolio here, alongside some blog posts.
+
+Please enjoy!
+
+Take a look at some of my [posts](/posts) and projects: 
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: '[%d-%m-%y]' }} <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
