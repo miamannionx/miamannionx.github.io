@@ -15,4 +15,4 @@ Being able to design and develop an entire system from scratch was an amazing op
 
 The software architecture we decided on was this:
 
-![Software Architecture](/asset/images/endtoend.png)
+<img src="/asset/images/endtoend.png" alt="Software Architecture" width="100%"/>
