@@ -15,5 +15,4 @@ Being able to design and develop an entire system from scratch was an amazing op
 
 The software architecture we decided on was this:
 
-{::nomarkdown}<img src="https://www.w3schools.com/images/w3schools_green.jpg">{:/}
-
+![Software Architecture](/asset/images/endtoend.png)

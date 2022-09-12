@@ -25,7 +25,7 @@ header_pages:
   - about.md
   - posts.md
 style: dark # dark (default), light or hacker
-listen_for_clients_preferred_style: false # false (default) or true
+listen_for_clients_preferred_style: true # false (default) or true
 
 footer: <html><p>Comp Sci undergrad at the University of Warwick. Aspiring Software Engineer.</p> <a href = "https://github.com/miamannionx">GitHub</a> </html>
 
@@ -38,7 +38,7 @@ url: "https://miamannionx.github.io/" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-console
+theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
