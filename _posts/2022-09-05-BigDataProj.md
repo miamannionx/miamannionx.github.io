@@ -16,3 +16,11 @@ Being able to design and develop an entire system from scratch was an amazing op
 The software architecture we decided on was this:
 
 <img src="/asset/images/endtoend.png" alt="Software Architecture" width="100%"/>
+
+I'd love to add some pictures of the final product, however I can't due to the contracts I signed, which is fair enough!
+
+We created a fully functioning and cloud deployed (hosted on MS servers, deployed using Azure Pipelines) software in just 4 weeks. That achievement is a testament to the hard work and professionalism my amazing team demonstrated. By the end of the project we felt like we'd known eachother forever and I would love to work with them again in the future.
+
+We also did an hour long presentation to our exec sponsor of what we'd done, which included a live interactive demo of our software. Our exec sponsor was really excited about what we'd achieved, so he invited industry leads across different areas of the business to watch our presentation. To present infront of a room full of industry leads was a bit nerve-wracking, but knowing I was up there with my team made me feel relaxed. It was an amazing opportunity and recieving such positive feedback was the best possible reward for four weeks of hard work. 
+
+This project gave me a massive confidence boost, making me feel very prepared for when I graduate and start working as a software engineer. I now have no worries when it comes to working with softwares or languages I've never worked with before, I've learnt this flexible outlook is essential for any software engineer. Also beyond learning new softwares and technologies, I've also learnt so much about Big Data and the energy and commodity market, which was really interesting. Overall, this project provided invaluable experience and I'm really grateful I was apart of such a great internship scheme.
